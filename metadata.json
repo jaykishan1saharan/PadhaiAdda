@@ -1,0 +1,6 @@
+{
+  "name": "PadhaiAdda",
+  "description": "Professional student learning platform with notes, PYQs, assignments, study material for school and college, ad-unlocks, premium subscriptions, and AI study tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
